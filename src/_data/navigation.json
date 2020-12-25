@@ -1,19 +1,23 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "io",
       "url": "/",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "text": "github",
+      "url": "https://github.com/elykahn/",
       "external": true
     },
     {
-      "text": "Example Contact Page",
+      "text": "connect",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "¯\\_(ツ)_/¯ ",
+      "url": "/fun"
     }
   ]
 }
